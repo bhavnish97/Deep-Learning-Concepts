@@ -6,3 +6,4 @@ Deep-Learning-Concepts
 3. EWMA for Bitcoin Prices
 4. Types of Optimizers in DL - ADAgrad, RMSprop and Adam.
 5. Keras-Tuner for Hyperparameter Tuning in Neural Network
+6. Padding and Strides in CNN
