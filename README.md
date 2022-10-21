@@ -7,3 +7,4 @@ Deep-Learning-Concepts
 4. Types of Optimizers in DL - ADAgrad, RMSprop and Adam.
 5. Keras-Tuner for Hyperparameter Tuning in Neural Network
 6. Padding and Strides in CNN
+7. Types of Pooling in CNN
