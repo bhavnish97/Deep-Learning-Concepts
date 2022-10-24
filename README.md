@@ -9,3 +9,4 @@ Deep-Learning-Concepts
 6. Padding and Strides in CNN
 7. Types of Pooling in CNN
 8. LeNet-5 Architecture
+9. Early Stopping and Dropout Layers in ANN to reduce Overfitting
