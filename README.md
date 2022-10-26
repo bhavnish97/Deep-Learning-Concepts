@@ -10,4 +10,4 @@ Deep-Learning-Concepts
 7. Types of Pooling in CNN
 8. LeNet-5 Architecture
 9. Early Stopping and Dropout Layers in ANN to reduce Overfitting
-10. CNN in deep learning
+10. CAN vs DOG using CNN in deep learning
