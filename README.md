@@ -12,3 +12,4 @@ Deep-Learning-Concepts
 9. Early Stopping and Dropout Layers in ANN to reduce Overfitting
 10. CAN vs DOG using CNN in deep learning
 11. Data Augmentation using ImageDataGenerator
+12. Digit Recognizer using CNN
