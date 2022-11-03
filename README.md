@@ -14,3 +14,4 @@ Deep-Learning-Concepts
 11. Data Augmentation using ImageDataGenerator
 12. Digit Recognizer using CNN
 13. CAT vs DOG using Transfer learning
+14. Basic Functional API Architecture
