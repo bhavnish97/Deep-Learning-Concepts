@@ -15,3 +15,4 @@ Deep-Learning-Concepts
 12. Digit Recognizer using CNN
 13. CAT vs DOG using Transfer learning
 14. Basic Functional API Architecture
+15. Age and Gender Prediction in an Image using Functional API
