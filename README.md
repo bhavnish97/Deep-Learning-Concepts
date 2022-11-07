@@ -16,3 +16,4 @@ Deep-Learning-Concepts
 13. CAT vs DOG using Transfer learning
 14. Basic Functional API Architecture
 15. Age and Gender Prediction in an Image using Functional API
+16. Simple RNN Architecture
