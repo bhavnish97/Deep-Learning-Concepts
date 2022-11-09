@@ -11,9 +11,10 @@ Deep-Learning-Concepts
 8. LeNet-5 Architecture
 9. Early Stopping and Dropout Layers in ANN to reduce Overfitting
 10. CAT vs DOG using CNN in deep learning
-11. Data Augmentation using ImageDataGenerator
-12. Digit Recognizer using CNN
-13. CAT vs DOG using Transfer learning
-14. Basic Functional API Architecture
-15. Age and Gender Prediction in an Image using Functional API
-16. Simple RNN Architecture
+11. Zero Weight Initialization with Sigmoid and relu
+12. Data Augmentation using ImageDataGenerator
+13. Digit Recognizer using CNN
+14. CAT vs DOG using Transfer learning
+15. Basic Functional API Architecture
+16. Age and Gender Prediction in an Image using Functional API
+17. Simple RNN Architecture
