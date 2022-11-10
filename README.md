@@ -18,3 +18,4 @@ Deep-Learning-Concepts
 15. Basic Functional API Architecture
 16. Age and Gender Prediction in an Image using Functional API
 17. Simple RNN Architecture
+18. Inteager Encoding in RNN
