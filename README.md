@@ -20,3 +20,4 @@ Deep-Learning-Concepts
 17. Simple RNN Architecture
 18. Inteager Encoding in RNN
 19. Sentiment Analysis using SimpleRNN with Inteager Encoding
+20. Sentiment Analysis with Embedding using SimpleRNN
